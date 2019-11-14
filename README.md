@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Thomas Gorczynski
+a simple demo, by Thomas Gorczynski, for DMIT-2018
